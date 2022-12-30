@@ -1,0 +1,44 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento site",
+      "type": "income",
+      "category": "Venda",
+      "price": 10000,
+      "createdAt": "2022-12-27T20:07:38.092Z"
+    },
+    {
+      "id": 2,
+      "description": "Curso",
+      "type": "outcome",
+      "category": "Cursos",
+      "price": 1000,
+      "createdAt": "2022-12-27T19:07:38.092Z"
+    },
+    {
+      "id": 3,
+      "description": "Supermercado",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 2500,
+      "createdAt": "2022-12-27T19:07:38.092Z"
+    },
+    {
+      "description": "Bônus",
+      "price": 500,
+      "category": "Outros",
+      "type": "income",
+      "createdAt": "2022-12-29T20:29:40.970Z",
+      "id": 4
+    },
+    {
+      "description": "Custos Imprevistos",
+      "price": 560,
+      "category": "Outros",
+      "type": "outcome",
+      "createdAt": "2022-12-29T20:35:32.009Z",
+      "id": 6
+    }
+  ]
+}
